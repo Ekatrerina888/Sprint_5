@@ -1,0 +1,37 @@
+__pycache__/
+*.pyc
+# Системные файлы Windows
+Desktop.ini
+Thumbs.db
+$RECYCLE
+
+# Папки ОС
+/Application Data/
+/Contacts/
+/Desktop/
+/Documents/
+/Downloads/
+/Favorites/
+/Links/
+/Music/
+/Pictures/
+/Saved Games/
+/Searches/
+/Videos/
+
+# Кэш и настройки
+/.cache/
+/.gradle/
+/.ssh/
+/.vscode/
+/.vscode-shared/
+
+# Локальные файлы
+*.log
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
